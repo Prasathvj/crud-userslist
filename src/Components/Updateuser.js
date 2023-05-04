@@ -49,6 +49,7 @@ function UpdateUser({user, setUser}){
             <Base
             title={'Users Dashboard'}
             description={'you can add your details here'}
+            des2={'(NOTE: Enter the correct details,you can update your details anytime) '}
             >
             <div className="form">
 
